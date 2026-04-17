@@ -2,7 +2,7 @@
 <br>💻 I'm currently building AI-powered and data-driven applications <br>🤝 I'm open to collaborating on Machine Learning, Data Science, and AI projects<br>📊 I enjoy working with data analytics, predictive modeling, and intelligent systems<br>🌱 I'm currently learning advanced Machine Learning, AI tools, and scalable backend development  <br>💬 Ask me about Python, Data Science, Machine Learning, and Web Development<br>💡 Love building real-world projects
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayur-panchal-9204a6313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurpanchal2715@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,8 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=codehub2715&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codehub2715&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codehub2715&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codehub2715&limit=5&theme=dark&combine_all_yearly_contributions=true)
