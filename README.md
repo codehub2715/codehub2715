@@ -1,3 +1,9 @@
+# Hi 👋, I'm Mayur Panchal
+
+# Data Analyst | Data Science | AI/ML
+
+
+
 # 💫 About Me:
 <br>💻 I'm currently building AI-powered and data-driven applications <br>🤝 I'm open to collaborating on Machine Learning, Data Science, and AI projects<br>📊 I enjoy working with data analytics, predictive modeling, and intelligent systems<br>🌱 I'm currently learning advanced Machine Learning, AI tools, and scalable backend development  <br>💬 Ask me about Python, Data Science, Machine Learning, and Web Development<br>💡 Love building real-world projects
 
